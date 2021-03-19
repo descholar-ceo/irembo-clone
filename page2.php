@@ -14,7 +14,7 @@
     <h1>Add New Staff</h1>
   <p class="record-info p-3">
     Record All information and click on Add staff Button. All fields are mandatory except Email.<br/>
-    <a href="#">Click here</a> go see a staff list.
+    <a href="page3.php">Click here</a> go see a staff list.
   </p>
   <form action="add_staff.php" method="POST">
     <h2>Staff information</h2>
